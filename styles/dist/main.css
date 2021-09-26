@@ -40,7 +40,7 @@ body {
 header {
   padding: 180px 0px 165px;
   margin-top: -120px !important;
-  background-image: url("/frontend/images/header.jpg");
+  background-image: url("/images/header.jpg");
   background-size: cover;
   height: 700px;
 }
